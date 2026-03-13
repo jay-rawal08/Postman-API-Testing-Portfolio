@@ -275,7 +275,7 @@
 		"apikey": [
 			{
 				"key": "value",
-				"value": "postmanrulz",
+				"value": "REPLACE_WITH_YOUR_KEY",
 				"type": "string"
 			},
 			{
